@@ -1,4 +1,4 @@
-* Primeiro projeto
+# Primeiro projeto
 
 > Lembrar de rodar tudo no virtualenv. É necessário ativar usando: 
 ```
@@ -9,7 +9,6 @@ source myvenv/bin/activate
 django-admin startproject mysite .
 ```
 > O ponto . é crucial por que ele diz para o script instalar o Django no diretório atual (o ponto . é um atalho para referenciar este diretório). 'mysite' foi o nome escolhido para o projeto.
-
 > django-admin é um script que criará os diretórios e arquivos.
 ```
 projeto
