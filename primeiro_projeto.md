@@ -26,8 +26,11 @@ projeto
 
 ## Mudando as configurações
 
-> Para fazer algumas alterações no mysite/settings.py. Abrir o arquivo usando o
-> editor de código
+*  Para fazer algumas alterações: 
+```
+ mysite/settings.py
+```
+> Abrir o arquivo usando o editor de código
 
 * Modificar a lina TIME_ZONE para escolher o próprio fuso horário:
 ```
