@@ -1,4 +1,4 @@
-# Primeiro projeto
+## Primeiro projeto
 
 > Lembrar de rodar tudo no virtualenv. É necessário ativar usando: 
 ```
@@ -24,7 +24,7 @@ projeto
 > O arquivo settings.py contém a configuração do site.
 > O arquivo urls.py contém uma lista dos padrões usados por urlresolver.
 
-#### Mudando as configurações
+## Mudando as configurações
 
 > Para fazer algumas alterações no mysite/settings.py. Abrir o arquivo usando o
 > editor de código
