@@ -6,10 +6,10 @@ from .modes import Post
 
 admin.site.register(Post)
 ```
-> Para fazer login, é preciso criar um superusuário (superuser) - uma conta de usuário que pode controlar tudo no site. Voltar à linha de comando,e  digita:
+> Para fazer login, é preciso criar um superusuário (superuser) - uma conta de usuário que pode controlar tudo no site. Voltar à linha de comando,e  digitar:
 ```
  python manage.py createsuperuser
 ```
-> Depois disso éso fornecer os dados para criação do superuser e voltar ao
+> Depois disso é só fornecer os dados para criação do superuser e voltar ao
 > navegador para fazer login
 
