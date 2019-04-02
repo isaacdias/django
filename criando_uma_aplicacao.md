@@ -1,11 +1,11 @@
 ## Criando uma aplicação
 #### Modelos
 
-> um modelo de Djano é um tipo especialde objeto que é salvo em um banco de
+> um modelo de Django é um tipo especial de objeto que é salvo em um banco de
 > dados.
 
 #### Criando uma aplicação
-> Para manter tudo organzado, vou criar uma aplicação separada dentro do
+> Para manter tudo organizado, vou criar uma aplicação separada dentro do
 > projeto.
 > o comando deve ser executado dentro do diretório onde está o manage.py
 ```
@@ -34,7 +34,7 @@ projeto
 Após criar a aplicação, é preciso informar ao Django que ele deve usá-la. Posso
 fazer isso adcionando o nome da aplicação dentro do campo INSTALLED_APPS que
 fica no mysite/settings.py
-```
+
 INSTALLED_APPS
 'blog'
 ```
